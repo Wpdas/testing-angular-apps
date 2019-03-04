@@ -1,4 +1,8 @@
-# TestingDemo
+# Main test folder
+
+You can access the main testes through this link: [App Tests](https://github.com/Wpdas/testing-angular-apps/tree/master/src/app)
+
+# Testing Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
